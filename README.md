@@ -2,9 +2,9 @@
 <p>A Multimedia Computing graduate from UNIMAS with passionate in software quality assurance and mobile development. I’m a big fan of writing clean and efficient test code, and I absolutely love the exciting and challenging world of testing tech.</p>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
 
-- 🌱 I’m currently learning **Selenium (Java), Postman (API Testing), SQL**
+- 🌱 I’m currently learning **Selenium (Java), Postman (API Testing), SQL (Backend Testing)**
 
-- 📫 How to reach me **huanrangyikai2024@outlook.co**
+- 📫 How to reach me **huanrangyikai2024@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
