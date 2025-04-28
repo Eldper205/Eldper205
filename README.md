@@ -2,7 +2,7 @@
 <p>A Multimedia Computing graduate from UNIMAS with passionate in software quality assurance and mobile development. I have always been quite picky with software and I often get frustrated with simple issues that I notice with the products that I use everyday.</p>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
 
-- 🌱 I’m currently learning **Flutter (Dart)**, **Selenium (Java), Postman (API Testing), SQL (Backend Testing)**
+- 🌱 I’m currently learning **Figma**. **Adobe Creative Suite (XD, Ps, Illustrator)**, and **Flutter (Dart)**.
 
 - 📫 How to reach me **huanrangyikai2024@outlook.com**
 
