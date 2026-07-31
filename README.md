@@ -23,17 +23,17 @@
     <img src="YOUR_ZETPY_LOGO_URL" alt="Zetpy" width="40" height="40"/>
 </a>
 <!-- Facebook -->
-<a href="https://www.facebook.com/YOUR_USERNAME" target="_blank" rel="noreferrer">
+<a href="https://www.facebook.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/facebook" alt="Facebook" width="40" height="40"/>
 </a>
 
 <!-- Instagram -->
-<a href="https://www.instagram.com/YOUR_USERNAME" target="_blank" rel="noreferrer">
+<a href="https://www.instagram.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="40" height="40"/>
 </a>
 
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/ek-kai" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="40" height="40"/>
 </a>
 </p>
