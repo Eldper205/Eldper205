@@ -19,9 +19,8 @@
 </a>
 
 <!-- Zetpy -->
-<!-- Zetpy -->
 <a href="https://www.zetpy.com/" target="_blank" rel="noreferrer">
-    <img src="/zetpy_logo.png" alt="Zetpy" width="40" height="40"/>
+    <img src="images/zetpy.png" alt="Zetpy" width="80"/>
 </a>
 <!-- Facebook -->
 <a href="https://www.facebook.com/" target="_blank" rel="noreferrer">
