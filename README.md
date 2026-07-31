@@ -1,8 +1,8 @@
 <h1 align="center">Hi there👋, I'm Ek Kai</h1>
-<p>A Multimedia Computing graduate from UNIMAS with passionate in IT Project Management, UI/UX Design, and mobile development. I have always been quite picky with software and I often get frustrated with simple issues that I notice with the products that I use everyday.</p>
+<p>A Multimedia Computing graduate from UNIMAS with passionate in digital solution delivery and system support, with a foundation in IT Project Management, E-Commerce Management, UI/UX Design, and Mobile Development.</p>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
 
-- 🌱 I’m currently learning **AI (Prompt ChatGPT Efficiently)**, **Explore Types of Websites via Envato**, **WordPress**, **WooCommerce**, **Project Management**, and **Adobe Software**.
+- 🌱 I’m currently learning **AI (Prompt ChatGPT Efficiently)**, **E-Commerce/Social Media Management via Data & AI**, **Explore Types of Websites via Envato**, **WordPress**, **WooCommerce**, **Project Management**, and **Adobe Software**.
 
 - 📫 How to reach me **huanrangyikai2024@outlook.com**
 
