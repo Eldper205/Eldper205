@@ -20,7 +20,7 @@
 
 <!-- Zetpy -->
 <a href="https://www.zetpy.com/" target="_blank" rel="noreferrer">
-    <img src="images/zetpy.png" alt="Zetpy" width="80"/>
+    <img src="/zetpy.png" alt="Zetpy" width="80"/>
 </a>
 <!-- Facebook -->
 <a href="https://www.facebook.com/" target="_blank" rel="noreferrer">
