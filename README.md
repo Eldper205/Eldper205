@@ -21,7 +21,7 @@
 <!-- Zetpy -->
 <!-- Zetpy -->
 <a href="https://www.zetpy.com/" target="_blank" rel="noreferrer">
-    <img src="images/zetpy logo.png" alt="Zetpy" width="40" height="40"/>
+    <img src="/zetpy_logo.png" alt="Zetpy" width="40" height="40"/>
 </a>
 <!-- Facebook -->
 <a href="https://www.facebook.com/" target="_blank" rel="noreferrer">
