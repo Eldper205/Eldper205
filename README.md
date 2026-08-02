@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Ek Kai</h1>
-<p>A Multimedia Computing graduate from UNIMAS with passionate in digital solution delivery and system support, with a foundation in IT Project Management (Agile), E-Commerce Management (WordPress & WooCommerce), UI/UX Design (Figma, Adobe XD, & Adobe PS), and Mobile Development (Flutter).</p>
+<p>A Multimedia Computing graduate from UNIMAS with passionate in digital solution delivery and system support, with a foundation in IT Project Management, E-Commerce Management, Digital Marketing (SEO & SEM), UI/UX Design, and Mobile Development (Flutter).</p>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
 
 - 🌱 I’m currently learning **AI (Prompt ChatGPT Efficiently)**, **E-Commerce Management via Data & AI**, **Explore Types of Websites via Envato**, **WordPress**, **WooCommerce**, and **UI/UX Design (Adobe Software)**.
